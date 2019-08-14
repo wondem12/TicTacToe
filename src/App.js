@@ -3,7 +3,7 @@ import "./App.css";
 import Game from "./Components/Game";
 import Footer from "./Components/Footer";
 
-function App() {
+const  App= () =>{
   return (
     <React.Fragment>
       <div className="ctr">
